@@ -122,7 +122,7 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-plugin-gatsby-cloud`,
+      resolve: `gatsby-plugin-netlify`,
       options: {
         allPageHeaders: [
           "test-header: I'm baby brunch meggings mixtape fingerstache hexagon cronut pok pok cold-pressed chartreuse selvage tattooed. Ramps mlkshk lo-fi shabby chic poke gentrify ethical narwhal put a bird on it street art disrupt biodiesel yuccie shaman synth. Listicle marfa af migas poke master cleanse retro vape normcore fixie XOXO vinyl. Letterpress try-hard cronut you probably haven't heard of them hoodie fingerstache tote bag. Hoodie whatever roof party health goth man braid cold-pressed chicharrones pitchfork celiac photo booth sartorial 8-bit mlkshk kombucha hella. Coloring book vinyl 90's sustainable street art. Everyday carry listicle wayfarers migas flexitarian brooklyn pork belly kinfolk quinoa kitsch af umami iceland messenger bag.",

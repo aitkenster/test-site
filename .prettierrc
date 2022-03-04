@@ -1,4 +1,4 @@
-{
-  "arrowParens": "avoid",
-  "semi": false
-}
+.cache
+package.json
+package-lock.json
+public

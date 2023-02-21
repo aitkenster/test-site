@@ -5,6 +5,8 @@ description: "Hello World"
 ---
 This an updated post to this fake blog!
 
+This is a new line on a different branch
+
 This is my first post on my new fake blog! How exciting!
 
 I'm sure I'll write a lot more interesting things in the future.
